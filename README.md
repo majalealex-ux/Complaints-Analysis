@@ -191,3 +191,4 @@ Bank-of-America-Complaints-Analysis/
 This project demonstrates the use of SQL and Power BI to transform raw consumer complaint records into structured business insights.
 
 It combines data quality assessment, SQL analysis, KPI development, trend investigation and interactive reporting to support evidence-based decision-making.
+
